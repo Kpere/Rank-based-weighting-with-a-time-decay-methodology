@@ -12,3 +12,6 @@ https://github.com/yumoxu/stocknet-dataset
 
 YAHOO FINANCE
 https://finance.yahoo.com/
+
+
+![Fig 1](https://github.com/user-attachments/assets/456a3d87-0d4f-4c6d-9359-b2f4bec7a002)
